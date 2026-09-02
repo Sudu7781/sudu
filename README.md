@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @sudu-sketch
-- 👀 I’m interested in sketching
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me by using my email
-- 😄 Pronouns:Sudu
-- ⚡ Fun fact: be safe I'm an artist
+ Hi, I'm Sudarshan Satish Deshmukh 👋
 
-<!---
-sudu-sketch/sudu-sketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Data Analyst
+
+I'm a B.Sc. Data Science student interested in turning data into meaningful insights.
+ 
+🛠️ Skills
+- SQL / MySQL
+- Microsoft Excel
+- Power BI
+- Python
+- Data Visualization
+
+📊 What I'm Working On
+- Data Analysis Projects
+- Interactive Dashboards
+- SQL Data Analysis
+- Python Data Analysis
+
+🎯 Goal
+To start my career as a Data Analyst and continuously improve my data analytics skills.
+
+📫 Connect With Me
+- LinkedIn: Coming soon
+- GitHub: https://github.com/Sudu7781
