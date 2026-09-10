@@ -22,4 +22,4 @@ To start my career as a Data Analyst and continuously improve my data analytics 
 
 📫 Connect With Me
 - LinkedIn: Coming soon
-- GitHub: https://github.com/Sudu7781
+- GitHub: [Sudu7781](https://github.com/Sudu7781)
